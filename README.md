@@ -25,6 +25,3 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kenny02238&show_icons=true&locale=en&layout=compact" alt="kenny02238" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kenny02238&show_icons=true&locale=en" alt="kenny02238" /></p>
-
-
