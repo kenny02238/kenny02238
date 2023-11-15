@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kenny02238&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/KennyChang02238?font=milonga&border=0&radius=20&theme=unicorn&ext=heatmap)
